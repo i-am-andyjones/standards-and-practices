@@ -46,7 +46,7 @@ Format:
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Abhinav Desor | [adesor](https://github.com/adesor) | I know Java, C and Python. Looking forward to contributing to open source projects. |
-| Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties a a data aggregator. |    
+| Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties as a data aggregator. |    
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt.| 
 | Abdul-Raheem Tawheed| [tawrahim](https://github.com/tawrahim) | I teach kids how to program in python and am also learning ruby at the same time |
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
@@ -62,6 +62,7 @@ Format:
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7)||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Andy Huynh | [andystructible](https://github.com/andystructible) | I'm interning at a RoRs shop in Southern California. I'm excited to contribute to the open source community! |
+| Andy Jones | [gorideyourbike](https://github.com/gorideyourbike) | Forced to learn C#, ASP.NET, and Java in school and then never used them. Teaching myself Python and basic webdev now, evenually want to learn Ruby and Go as well.|
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
@@ -70,7 +71,7 @@ Format:
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
 | Austin Walker | [awalker4](https://github.com/awalker4) | Sophomore CS student with 2 semesters worth of Java. I also know some Python, and I'm starting to play around in C.||
 | Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
-| Avneesh Chadha | [avneesh91](https://github.com/avneesh91) |Self taught programmer. Exprience with Java, and a little python. Looking for mentors and guidance.Want to experience Open source development.Eventually want to go into kernel programming. |
+| Avneesh Chadha | [avneesh91](https://github.com/avneesh91) |Self taught programmer. Exprience with Java, and a little python. Looking for mentors and guidance.Want to experience Open source development. Eventually want to go into kernel programming. |
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
 | Benjamin Hipple | [brhCS](https://github.com/brhCS) | Experience with Java, new to contributing to open source projects ||
 | Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
@@ -243,7 +244,7 @@ Format:
 | Thom Green | [bloodythorn](https:://github.com/bloodythorn) | C++, SFML, Game Development ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Tim Fulton | [tmfulton](https://github.com/tmfulton) || I know Java, some python and objective-C, I'm hoping to learn alot more about programming
-| Tommy Garland | [tommygarland](https://github.com/tommygarland || 
+| Tommy Garland | [tommygarland](https://github.com/tommygarland) || 
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
